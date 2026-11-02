@@ -1,0 +1,32 @@
+feature,importance
+failures,0.36735648570258234
+goout,0.3542185848869181
+absences,0.2296697271326437
+Walc,0.16945272224260322
+Fedu & studytime,0.1234111690858096
+traveltime & goout,0.11785941854983785
+Medu,0.11349098449752298
+freetime & absences,0.10902600963332182
+failures & absences,0.09515159970865765
+failures & Dalc,0.08778202969832928
+health,0.08210332951102688
+traveltime,0.059161530855808546
+freetime,0.05519178310709719
+Fedu,0.044074927239160865
+famrel,0.03539554495824155
+Dalc,0.0323800461306521
+studytime,0.010744055862492835
+activities,0.0
+paid,0.0
+guardian,0.0
+Mjob,0.0
+Fjob,0.0
+reason,0.0
+famsize,0.0
+Pstatus,0.0
+famsup,0.0
+schoolsup,0.0
+nursery,0.0
+higher,0.0
+internet,0.0
+romantic,0.0
